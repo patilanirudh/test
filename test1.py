@@ -17,3 +17,5 @@ print("klkl")
 # current
 # both
 # compare
+
+print('wakandnd')
