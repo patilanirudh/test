@@ -19,3 +19,4 @@ print("klkl")
 # compare
 
 print('wakandnd')
+print('ajja')
