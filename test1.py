@@ -13,3 +13,7 @@ print("hi")
 
 
 print("klkl")
+# incoming
+# current
+# both
+# compare
